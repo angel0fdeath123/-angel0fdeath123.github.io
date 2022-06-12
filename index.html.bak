@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <title>Главная</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="Главная.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:100,200,300,400,500,600,700,800,900|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i">
+    
+    
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": ""
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Главная">
+    <meta property="og:type" content="website">
+  </head>
+  <body data-home-page="Главная.html" data-home-page-title="Главная" class="u-body u-overlap u-xl-mode"><header class="u-clearfix u-header u-palette-1-base u-header" id="sec-c022"><div class="u-clearfix u-sheet u-sheet-1">
+        <nav class="u-align-left u-menu u-menu-dropdown u-offcanvas u-menu-1" data-responsive-from="XL">
+          <div class="menu-collapse">
+            <a class="u-button-style u-nav-link" href="#" style="padding: 4px 0px; font-size: calc(1em + 8px);">
+              <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 302 302" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-5c50"></use></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg-5c50" x="0px" y="0px" viewBox="0 0 302 302" style="enable-background:new 0 0 302 302;" xml:space="preserve" class="u-svg-content"><g><rect y="36" width="302" height="30"></rect><rect y="236" width="302" height="30"></rect><rect y="136" width="302" height="30"></rect>
+</g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Главная.html" style="padding: 10px 20px;">Главная</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="График-работы-школы.html" style="padding: 10px 20px;">График работы школы</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Руководство.html" style="padding: 10px 20px;">Руководство</a>
+</li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-align-center u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Главная.html">Главная</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="График-работы-школы.html">График работы школы</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Руководство.html">Руководство</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+      </div></header>
+    <section class="u-align-center u-clearfix u-custom-color-1 u-section-1" id="sec-4484">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <img class="u-image u-image-contain u-image-round u-radius-50 u-image-1" src="images/0260c809-feb4-0650-0159-0b38c4b32a0d.jpg" alt="" data-image-width="673" data-image-height="732">
+        <h2 class="u-custom-font u-font-roboto-slab u-text u-text-1"><b>МБОУ "Школа №6 города Ясиноватая"</b>
+        </h2>
+        <p class="u-custom-font u-font-roboto u-text u-text-2">Гарантируем вашим детям успешное будущее</p>
+      </div>
+    </section>
+    <section class="u-clearfix u-white u-section-2" id="sec-b39c">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-size-30 u-size-60-md">
+                <div class="u-layout-col">
+                  <div class="u-container-style u-layout-cell u-left-cell u-size-60 u-layout-cell-1">
+                    <div class="u-container-layout u-container-layout-1">
+                      <h6 class="u-text u-text-default u-text-1">Почему наша школа?</h6>
+                      <h2 class="u-text u-text-default u-text-2"><b>
+                          <span style="font-style: italic;">Комфорт</span> и <span style="font-style: italic;">компетентность</span></b>
+                      </h2>
+                      <p class="u-custom-font u-font-roboto u-text u-text-3">В нашем общеразовательном учреждении созданы все условия для комфортного и продуктивного обучения учащихся с 1 по 11 класс. У нас работают лучшие квалифицированные учителя, умеющие найти свой подход к каждому ученику. Наши ученики становятся победителями и занимают призовые места на всех этапах олимпиад, а после школы поступают в лучшие ВУЗы не только в ДНР, но и в России.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="u-size-30 u-size-60-md">
+                <div class="u-layout-col">
+                  <div class="u-size-60">
+                    <div class="u-layout-row">
+                      <div class="u-container-style u-layout-cell u-right-cell u-size-60 u-layout-cell-2">
+                        <div class="u-container-layout u-container-layout-2">
+                          <img class="u-image u-image-default u-preserve-proportions u-image-1" src="images/bezuglaya.jpg" alt="" data-image-width="150" data-image-height="200">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-white u-section-3" id="sec-cc97">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h1 class="u-text u-text-default u-title u-text-1">Сведения о школе</h1>
+        <p class="u-align-justify u-text u-text-2">Сокращённое наименование: <b>МБОУ «ШКОЛА №6 ГОРОДА ЯСИНОВАТАЯ»</b>
+          <br> Школа основана в <b>1963</b> году<br> Юридический адрес: <b>86006, ДНР, г. Ясиноватая, кв-л 100, д. 4-а</b>
+          <br> Тел.: <b>(06236) 2-43-86, 4-15-29</b>
+          <br> Е-mail: <b>
+            <a href="mailto:sch6ya@gmail.com" class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1">sch6ya@gmail.com</a></b>
+          <br> Адрес сайта: <b>
+            <a href="https://school6.ya-dn.ru/" class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-2">https://school6.ya-dn.ru/</a></b>
+        </p>
+        <a href="https://yandex.com/maps/?from=api-maps&amp;ll=37.866681%2C48.142303&amp;mode=usermaps&amp;origin=jsapi_2_1_79&amp;um=constructor%3A1e4191c44d332909a1e39335bab6ec37652d657ab1c8bcf5208b6be05d9e51c8&amp;z=12" class="u-border-none u-btn u-btn-round u-button-style u-custom-font u-font-roboto u-hover-palette-1-base u-palette-1-light-1 u-radius-14 u-btn-3">Мы на Яндекс.Картах</a>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-white u-section-4" id="carousel_6221">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-list u-list-1">
+          <div class="u-repeater u-repeater-1">
+            <div class="u-align-left u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-1">
+                <h6 class="u-text u-text-default u-text-1">График работы школы</h6>
+                <a href="График-работы-школы.html" data-page-id="984129745" class="u-border-2 u-border-palette-4-base u-btn u-btn-rectangle u-button-style u-none u-btn-1">Показать больше</a>
+              </div>
+            </div>
+            <div class="u-align-left u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-2">
+                <h6 class="u-text u-text-default u-text-2">Руководство</h6>
+                <a href="Руководство.html" data-page-id="457107789" class="u-border-2 u-border-palette-4-base u-btn u-btn-rectangle u-button-style u-none u-btn-2">Показать больше</a>
+              </div>
+            </div>
+            <div class="u-align-left u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-3">
+                <h6 class="u-text u-text-default u-text-3">наш официальный сайт</h6>
+                <a href="https://school6.ya-dn.ru/index.php?page=main" class="u-border-2 u-border-palette-4-base u-btn u-btn-rectangle u-button-style u-none u-btn-3">Показать больше</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="u-clearfix u-gutter-18 u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-col">
+              <div class="u-align-left u-container-style u-layout-cell u-left-cell u-right-cell u-shape-rectangle u-size-30 u-white u-layout-cell-1">
+                <div class="u-container-layout u-container-layout-4">
+                  <img class="u-image u-image-1" src="images/0260c809-feb4-0650-0159-0b38c4b32a0d.jpg" data-image-width="673" data-image-height="732">
+                </div>
+              </div>
+              <div class="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-container-style u-layout-cell u-left-cell u-right-cell u-size-30 u-layout-cell-2">
+                <div class="u-container-layout u-container-layout-5">
+                  <h3 class="u-custom-font u-font-roboto u-text u-text-4"><b>Позвони по номеру</b>
+                  </h3>
+                  <h3 class="u-text u-text-5"><b>(06236) 2-43-86, 4-15-29</b>
+                  </h3>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    
+    <footer class="u-align-center u-clearfix u-footer u-palette-1-base u-footer" id="sec-842e"><div class="u-clearfix u-sheet u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1">МБОУ "Школа №6 с углублённым изучением отдельных предметов города Ясиноватая"</p>
+      </div></footer>
+  </body>
+</html>
